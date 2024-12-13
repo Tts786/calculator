@@ -1,0 +1,25 @@
+body {
+    background-color: #fcf2f0;
+  }
+  
+  .calculator {
+    width: 300px;
+  }
+  
+  #display {
+    height: 50px;
+    font-size: 2rem;
+    text-align: right;
+    background-color: #e9ecef;
+    border: none;
+  }
+  
+  button {
+    font-size: 1.5rem;
+    height: 60px;
+  }
+  
+  button:active {
+    background-color: #e0e0e0;
+  }
+  
